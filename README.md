@@ -117,6 +117,8 @@
 | [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)        | A Comprehensive Toolkit for High-Quality PDF Content Extraction. | [![Stars](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit?style=flat)](https://github.com/opendatalab/PDF-Extract-Kit/stargazers) |
 | [grobid](https://github.com/kermitt2/grobid)        | A machine learning software for extracting information from scholarly documents. | [![Stars](https://img.shields.io/github/stars/kermitt2/grobid?style=flat)](https://github.com/kermitt2/grobid/stargazers) |
 | [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)        | Official code implementation of General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. | [![Stars](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0?style=flat)](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/stargazers) |
+| [marker](https://github.com/VikParuchuri/marker)        | Convert PDF to markdown + JSON quickly with high accuracy. | [![Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=flat)](https://github.com/VikParuchuri/marker/stargazers) |
+| [markitdown](https://github.com/microsoft/markitdown)        | Python tool for converting files and office documents to Markdown. | [![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat)](https://github.com/microsoft/markitdown/stargazers) |
 
 ## UI/Interface
 
