@@ -124,6 +124,12 @@ sidebar_position: 1
 | [marker](https://github.com/VikParuchuri/marker)        | Convert PDF to markdown + JSON quickly with high accuracy. | [![Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=flat)](https://github.com/VikParuchuri/marker/stargazers) |
 | [markitdown](https://github.com/microsoft/markitdown)        | Python tool for converting files and office documents to Markdown. | [![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat)](https://github.com/microsoft/markitdown/stargazers) |
 
+## Image Processing
+
+| **Name**                                                                 | **About**                                                                 | **Stars** |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------|
+| [CLIP](https://github.com/openai/CLIP)                                   | CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image. | [![Stars](https://img.shields.io/github/stars/openai/CLIP?style=flat)](https://github.com/openai/CLIP/stargazers) |
+
 ## UI/Interface
 
 | **Name**                                                                 | **About**                                          | **Stars** |
