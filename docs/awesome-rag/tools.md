@@ -151,6 +151,7 @@ sidebar_position: 1
 | [ollama](https://github.com/ollama/ollama)                               | Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models. | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=flat)](https://github.com/ollama/ollama/stargazers) |
 | [vllm](https://github.com/vllm-project/vllm)                               | A high-throughput and memory-efficient inference and serving engine for LLMs. | [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat)](https://github.com/vllm-project/vllm/stargazers) |
 | [LM Studio](https://lmstudio.ai/)                               | Discover, download, and run local LLMs. | ![Proprietary](https://img.shields.io/badge/Proprietary-red) |
+| [litellm](https://github.com/BerriAI/litellm)                               | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]. | [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat)](https://github.com/BerriAI/litellm/stargazers) |
 | [sglang](https://github.com/sgl-project/sglang)                               | SGLang is a fast serving framework for large language models and vision language models. | [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat)](https://github.com/sgl-project/sglang/stargazers) |
 
 
