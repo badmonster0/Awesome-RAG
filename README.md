@@ -11,6 +11,7 @@
 | [Flowise](https://github.com/FlowiseAI/Flowise)                        | Drag & drop UI to build your customized LLM flow.        | [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat)](https://github.com/FlowiseAI/Flowise/stargazers) |
 | [Haystack](https://github.com/deepset-ai/haystack)                       | LLM orchestration framework to build customizable, production-ready LLM applications. | [![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat)](https://github.com/deepset-ai/haystack/stargazers) |
 | [RAGFlow](https://github.com/infiniflow/ragflow)                         | An open-source RAG engine based on deep document understanding. | [![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat)](https://github.com/infiniflow/ragflow/stargazers) |
+| [letta](https://github.com/letta-ai/letta)                         | Letta (formerly MemGPT) is a framework for creating LLM services with memory. | [![Stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat)](https://github.com/letta-ai/letta/stargazers) |
 | [Cognita](https://github.com/truefoundry/cognita)                        | RAG Framework for building modular, open source applications for production. | [![Stars](https://img.shields.io/github/stars/truefoundry/cognita?style=flat)](https://github.com/truefoundry/cognita/stargazers) |
 | [fastRAG](https://github.com/IntelLabs/fastRAG)                       | Efficient Retrieval Augmentation and Generation Framework. | [![Stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=flat)](https://github.com/IntelLabs/fastRAG/stargazers) |
 | [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)                       | RAG AutoML Tool - Find optimal RAG pipeline for your own data. | [![Stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat)](https://github.com/Marker-Inc-Korea/AutoRAG/stargazers) |
@@ -139,6 +140,14 @@
 ### UI/Interface Tutorials
 - Gradio:
   - [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
+
+## Model Serving
+| **Name**                                                                 | **About**                                          | **Stars** |
+|--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
+| [ollama](https://github.com/ollama/ollama)                               | Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models. | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=flat)](https://github.com/ollama/ollama/stargazers) |
+| [vllm](https://github.com/vllm-project/vllm)                               | A high-throughput and memory-efficient inference and serving engine for LLMs. | [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat)](https://github.com/vllm-project/vllm/stargazers) |
+| [LM Studio](https://lmstudio.ai/)                               | Discover, download, and run local LLMs. | ![Proprietary](https://img.shields.io/badge/Proprietary-red) |
+| [sglang](https://github.com/sgl-project/sglang)                               | SGLang is a fast serving framework for large language models and vision language models. | [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat)](https://github.com/sgl-project/sglang/stargazers) |
 
 ## References
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
